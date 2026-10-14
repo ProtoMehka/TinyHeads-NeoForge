@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tinyheads:tinyhead_mr_meeseeks_boxed"
+    }
+  ],
+  "result": {
+    "id": "tinyheads:tinyhead_mr_meeseeks"
+  }
+}

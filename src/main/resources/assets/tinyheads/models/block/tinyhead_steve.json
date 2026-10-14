@@ -1,0 +1,6 @@
+{
+    "parent": "tinyheads:block/tinyhead_base_out",
+    "textures": {
+        "0": "tinyheads:block/figurines/steve"
+    }
+}

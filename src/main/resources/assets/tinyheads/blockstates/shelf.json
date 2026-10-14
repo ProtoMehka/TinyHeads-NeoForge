@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "facing=north,part=bottom_left":  { "model": "tinyheads:block/tinyhead_shelf" },
+        "facing=south,part=bottom_left":  { "model": "tinyheads:block/tinyhead_shelf", "y": 180 },
+        "facing=east,part=bottom_left":   { "model": "tinyheads:block/tinyhead_shelf", "y": 90 },
+        "facing=west,part=bottom_left":   { "model": "tinyheads:block/tinyhead_shelf", "y": 270 },
+
+        "facing=north,part=bottom_right": { "model": "tinyheads:block/shelf_empty" },
+        "facing=south,part=bottom_right": { "model": "tinyheads:block/shelf_empty" },
+        "facing=east,part=bottom_right":  { "model": "tinyheads:block/shelf_empty" },
+        "facing=west,part=bottom_right":  { "model": "tinyheads:block/shelf_empty" }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "tinyheads:block/tinyhead_base_boxed",
+    "textures": {
+        "0": "tinyheads:block/figurines/tokisaki_kurumi",
+        "1": "tinyheads:block/figurines/tokisaki_kurumi_box"
+    }
+}

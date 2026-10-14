@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tinyheads:tinyhead_tokisaki_kurumi_boxed"
+    }
+  ],
+  "result": {
+    "id": "tinyheads:tinyhead_tokisaki_kurumi"
+  }
+}

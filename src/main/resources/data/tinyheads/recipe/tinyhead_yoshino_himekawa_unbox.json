@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tinyheads:tinyhead_yoshino_himekawa_boxed"
+    }
+  ],
+  "result": {
+    "id": "tinyheads:tinyhead_yoshino_himekawa"
+  }
+}

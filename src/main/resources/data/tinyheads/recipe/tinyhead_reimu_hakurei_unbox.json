@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tinyheads:tinyhead_reimu_hakurei_boxed"
+    }
+  ],
+  "result": {
+    "id": "tinyheads:tinyhead_reimu_hakurei"
+  }
+}

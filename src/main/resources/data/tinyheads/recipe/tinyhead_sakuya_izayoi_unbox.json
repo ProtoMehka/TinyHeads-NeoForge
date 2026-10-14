@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tinyheads:tinyhead_sakuya_izayoi_boxed"
+    }
+  ],
+  "result": {
+    "id": "tinyheads:tinyhead_sakuya_izayoi"
+  }
+}

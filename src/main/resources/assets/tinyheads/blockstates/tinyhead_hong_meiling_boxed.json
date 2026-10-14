@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tinyheads:block/tinyhead_hong_meiling_boxed" },
+        "facing=south": { "model": "tinyheads:block/tinyhead_hong_meiling_boxed", "y": 180 },
+        "facing=east": { "model": "tinyheads:block/tinyhead_hong_meiling_boxed", "y": 90 },
+        "facing=west": { "model": "tinyheads:block/tinyhead_hong_meiling_boxed", "y": 270 }
+    }
+}

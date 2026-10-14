@@ -1,0 +1,7 @@
+{
+    "parent": "tinyheads:block/tinyhead_base_boxed",
+    "textures": {
+        "0": "tinyheads:block/figurines/flash",
+        "1": "tinyheads:block/figurines/flash_box"
+    }
+}

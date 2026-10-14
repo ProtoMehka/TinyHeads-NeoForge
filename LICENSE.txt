@@ -1,0 +1,21 @@
+All Rights Reserved
+
+Copyright (c) 2026 ProtoMehka
+
+This software and its associated assets are provided for free use within
+Minecraft modpacks, including private and public modpacks, without needing
+to ask for permission first.
+
+You are free to:
+  - Use this mod, unmodified, in any modpack (personal or publicly
+    distributed).
+  - Fork and modify the source code for your own use.
+
+You may NOT, without explicit prior permission from the copyright holder:
+  - Reupload or redistribute this mod (modified or unmodified) as a
+    standalone download on any platform (CurseForge, Modrinth, GitHub,
+    or otherwise) other than the copyright holder's own official listing.
+
+All other rights are reserved. This is not an OSI-approved open source
+license — for permissions beyond the scope above, contact the copyright
+holder directly.

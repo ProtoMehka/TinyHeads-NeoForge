@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tinyheads:block/tinyhead_steve" },
+        "facing=south": { "model": "tinyheads:block/tinyhead_steve", "y": 180 },
+        "facing=east": { "model": "tinyheads:block/tinyhead_steve", "y": 90 },
+        "facing=west": { "model": "tinyheads:block/tinyhead_steve", "y": 270 }
+    }
+}

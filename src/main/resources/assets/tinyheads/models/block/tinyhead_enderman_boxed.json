@@ -1,0 +1,7 @@
+{
+    "parent": "tinyheads:block/tinyhead_base_boxed",
+    "textures": {
+        "0": "tinyheads:block/figurines/enderman",
+        "1": "tinyheads:block/figurines/enderman_box"
+    }
+}

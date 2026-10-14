@@ -1,0 +1,7 @@
+{
+    "parent": "tinyheads:block/tinyhead_base_boxed",
+    "textures": {
+        "0": "tinyheads:block/figurines/yoshino_himekawa",
+        "1": "tinyheads:block/figurines/yoshino_himekawa_box"
+    }
+}

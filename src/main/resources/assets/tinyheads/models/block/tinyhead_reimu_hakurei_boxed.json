@@ -1,0 +1,7 @@
+{
+    "parent": "tinyheads:block/tinyhead_base_boxed",
+    "textures": {
+        "0": "tinyheads:block/figurines/reimu_hakurei",
+        "1": "tinyheads:block/figurines/reimu_hakurei_box"
+    }
+}
